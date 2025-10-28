@@ -2,9 +2,10 @@ streamlit
 pandas
 numpy
 matplotlib
+plotly
 yfinance
 torch
 transformers
-keras
+tensorflow==2.16.1
+keras==3.3.3
 scikit-learn
-plotly
