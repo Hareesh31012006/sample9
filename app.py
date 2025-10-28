@@ -5,7 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import datetime as dt
 from sklearn.preprocessing import MinMaxScaler
-from keras.models import Sequential
+from tensorflow.keras.models import Sequential
 from keras.layers import Dense, LSTM, Dropout
 from keras.models import load_model
 import yfinance as yf
