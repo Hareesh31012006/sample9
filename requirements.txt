@@ -4,8 +4,8 @@ numpy
 matplotlib
 plotly
 yfinance
+scikit-learn
+tensorflow
 torch
 transformers
-tensorflow-cpu==2.15.0
-keras==2.15.0
-scikit-learn
+keras
